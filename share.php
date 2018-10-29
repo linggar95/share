@@ -1,5 +1,5 @@
 <?php
-$score = $_GET["score"];
+$score = $_GET["mawar"];
 $scorex = explode(":", $score);
 $highscore = $scorex[0];
 ?>
