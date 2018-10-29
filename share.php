@@ -12,6 +12,6 @@ $highscore = $scorex[0];
 <meta property="og:description" content="<?echo $score;?> is mine new highscore on The Lost Queen How far do you think you can get? Try it for free!"/> 
 </head>
 <body>
-<meta http-equiv="refresh" content="0;URL=http://www.yoursite.com" /
+<meta http-equiv="refresh" content="0;URL=http://www.github.com" /
 </body>
 </html>
